@@ -187,7 +187,7 @@ secheresse-agricole-tunisie/
 ### 1. Cloner le dépôt
 
 ```bash
-git clone https://github.com/12888950s/MachineLearning_Project.git
+git clone https://github.com/SouhaGuezguez0702/MachineLearning_Project.git
 cd secheresse-agricole-tunisie
 ```
 
@@ -236,11 +236,8 @@ L'application web interactive comprend **6 pages** :
 | 🏆 **Comparaison Modèles** | Tableau comparatif, radar chart, feature importance |
 | 👤 **Mon Profil** | Informations utilisateur connecté |
 
-**Identifiants de démonstration :**
-```
-admin   / admin123
-souha   / souha2026
-```
+
+
 
 ---
 
